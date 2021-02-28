@@ -1,2 +1,2 @@
 # hello-world
-just another start
+Learn how to turn it on and count the wheels...
